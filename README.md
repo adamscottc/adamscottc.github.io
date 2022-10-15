@@ -1,4 +1,4 @@
-<img src="resources/Christensen-Apr-2022-118(1).jpg" width="10%"/> <img src="resources/IC443b.jpeg" width="20%"/> 
+<img src="resources/Christensen-Apr-2022-118(1).jpg" width="10%"/> <img src="resources/IC443b.jpeg" width="24%"/> 
 
 
 # Adam Scott Christensen
