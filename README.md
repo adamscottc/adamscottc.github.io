@@ -1,4 +1,4 @@
-<img src="resources/Christensen-Apr-2022-118(1).jpg" width="10%"/> <img src="resources/IC443b.jpeg" width="21%"/> <img src="resources/Provo_Sunset.jpg" width="27%"/>
+<img src="resources/Christensen-Apr-2022-118(1).jpg" width="10%"/> <img src="resources/IC443b.jpeg" width="21%"/> <img src="resources/Provo_Sunset.jpg" width="27%"/> <img src="resources/OR_Concert 2022.jpg" width="23%"/> <img src="resources/Walk_Japan 2014.jpg" width="23%"/>
 
 
 # Adam Scott Christensen
